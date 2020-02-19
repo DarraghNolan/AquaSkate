@@ -51,11 +51,11 @@ Material:
     m_Floats:
     - Vector1_1A27653B: 0
     - Vector1_4AAE5AFD: 0
-    - Vector1_711D176E: 5
+    - Vector1_711D176E: 6
     - Vector1_8DC9C708: 1
     - Vector1_B1F6A9DC: 2.91
     - Vector1_C611A9DF: 0
-    - Vector1_CBB0B91D: 3
+    - Vector1_CBB0B91D: 900
     - Vector1_F31DF89: 0
     - _AlphaClip: 0
     - _Blend: 0
